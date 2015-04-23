@@ -1,0 +1,2 @@
+# Freelance
+We have many years of experience in developing a range of websites using HTML 5, CSS 3, JavaScript, JQuery including sites for start-up companies, small and any business. We also specialize in Web Development through PHP and CMS Integration (WordPress). My core competency lies in complete web management of a new website development project or existing while maintaining high SEO standards.
